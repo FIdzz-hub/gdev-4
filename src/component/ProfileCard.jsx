@@ -1,6 +1,6 @@
 import React from 'react'
 import { useEffect, useState } from 'react'
-import ProfilePicture from '../../public/images/profile.webp'
+import ProfilePicture from '../assets/profile.webp'
 import '../assets/css/TodoList.css'
 
 const ProfileCard = () => {
